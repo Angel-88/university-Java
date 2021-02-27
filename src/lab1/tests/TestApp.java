@@ -17,7 +17,6 @@ public class TestApp {
         ps.add(new Timber(wd.get(1), 5f, 0.5f, 0.4f));
         ps.add(new Timber(wd.get(2), 10f, 0.5f, 0.4f));
         ps.add(new Timber(wd.get(3), 10f, 0.5f, 0.4f));
-
         System.out.println(wd);
         System.out.println(ps);
 

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>lab2.model</OriginalElement>
+  <nodes>
+    <node x="0.0" y="459.0">lab2.model.Cylinder</node>
+    <node x="413.0" y="448.0">lab2.model.Timber</node>
+    <node x="600.1666666666666" y="213.0">lab2.store.WoodDirectory</node>
+    <node x="210.0" y="470.5">lab2.store.ProductStore</node>
+    <node x="354.58712121212113" y="673.0">lab2.tests.TestApp</node>
+    <node x="466.84090909090907" y="0.0">lab2.model.Wood</node>
+    <node x="220.0" y="235.0">lab2.model.AbstractForm</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="lab2.store.ProductStore" target="lab2.model.AbstractForm">
+      <point x="-45.75" y="-60.0" />
+      <point x="255.75" y="428.0" />
+      <point x="287.9166666666667" y="428.0" />
+      <point x="-13.583333333333314" y="60.5" />
+    </edge>
+    <edge source="lab2.tests.TestApp" target="lab2.model.Timber">
+      <point x="17.250000000000057" y="-60.0" />
+      <point x="475.3371212121212" y="633.0" />
+      <point x="519.0" y="633.0" />
+      <point x="0.0" y="82.5" />
+    </edge>
+    <edge source="lab2.model.Timber" target="lab2.model.Wood">
+      <point x="70.66666666666661" y="-82.5" />
+      <point x="589.6666666666666" y="428.0" />
+      <point x="531.590909090909" y="428.0" />
+      <point x="531.590909090909" y="193.0" />
+      <point x="550.840909090909" y="193.0" />
+      <point x="0.0" y="71.5" />
+    </edge>
+    <edge source="lab2.tests.TestApp" target="lab2.model.Cylinder">
+      <point x="-86.24999999999994" y="-60.0" />
+      <point x="371.8371212121212" y="653.0" />
+      <point x="95.0" y="653.0" />
+      <point x="0.0" y="71.5" />
+    </edge>
+    <edge source="lab2.model.Cylinder" target="lab2.model.Wood">
+      <point x="-63.33333333333337" y="-71.5" />
+      <point x="31.66666666666663" y="398.0" />
+      <point x="111.03787878787875" y="398.0" />
+      <point x="111.03787878787875" y="163.0" />
+      <point x="478.84090909090907" y="163.0" />
+      <point x="-72.0" y="71.5" />
+    </edge>
+    <edge source="lab2.model.Cylinder" target="lab2.model.AbstractForm">
+      <point x="0.0" y="-71.5" />
+      <point x="95.0" y="408.0" />
+      <point x="233.58333333333331" y="408.0" />
+      <point x="-67.91666666666669" y="60.5" />
+    </edge>
+    <edge source="lab2.model.Timber" target="lab2.model.AbstractForm">
+      <point x="-70.66666666666669" y="-82.5" />
+      <point x="448.3333333333333" y="418.0" />
+      <point x="342.25" y="418.0" />
+      <point x="40.75" y="60.5" />
+    </edge>
+    <edge source="lab2.tests.TestApp" target="lab2.store.WoodDirectory">
+      <point x="86.25000000000006" y="-60.0" />
+      <point x="544.3371212121212" y="653.0" />
+      <point x="681.6666666666666" y="653.0" />
+      <point x="681.6666666666666" y="428.0" />
+      <point x="714.1666666666666" y="428.0" />
+      <point x="38.0" y="82.5" />
+    </edge>
+    <edge source="lab2.tests.TestApp" target="lab2.store.ProductStore">
+      <point x="-51.74999999999994" y="-60.0" />
+      <point x="406.3371212121212" y="643.0" />
+      <point x="255.75" y="643.0" />
+      <point x="-45.75" y="60.0" />
+    </edge>
+    <edge source="lab2.model.AbstractForm" target="lab2.model.Wood">
+      <point x="-40.75" y="-60.5" />
+      <point x="260.75" y="173.0" />
+      <point x="502.84090909090907" y="173.0" />
+      <point x="-48.0" y="71.5" />
+    </edge>
+    <edge source="lab2.store.WoodDirectory" target="lab2.model.Wood">
+      <point x="-50.66666666666663" y="-82.5" />
+      <point x="625.5" y="193.0" />
+      <point x="574.840909090909" y="193.0" />
+      <point x="24.0" y="71.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="327.38095238095184" y="512.5952380952381" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

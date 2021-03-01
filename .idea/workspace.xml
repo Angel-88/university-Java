@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6e60743-e498-4ef2-8759-1c81f4078d44" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Package lab1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_1/lab1/model/Timber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_1/lab1/model/Wood.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_1/lab1/store/ProductStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_1/lab1/store/WoodDirectory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_1/lab1/tests/TestApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab_1/lab1/tests/TestByConsole.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/model/Timber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/model/Wood.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/store/ProductStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/store/WoodDirectory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/tests/TestApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/tests/TestByConsole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -86,6 +68,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestByConsole" />
@@ -112,6 +105,7 @@
       <workItem from="1614458944317" duration="220000" />
       <workItem from="1614459202286" duration="242000" />
       <workItem from="1614505314682" duration="103000" />
+      <workItem from="1614505916189" duration="805000" />
     </task>
     <servers />
   </component>

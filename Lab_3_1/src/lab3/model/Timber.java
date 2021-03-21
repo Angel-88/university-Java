@@ -1,9 +1,9 @@
-package lab2.model;
+package lab3.model;
 
 public class Timber extends AbstractForm {
-    private final float length;
-    private final float height;
-    private final float width;
+    private float length;
+    private float height;
+    private float width;
 
     public Timber(Wood wood, float length, float height, float width) {
         super(wood);

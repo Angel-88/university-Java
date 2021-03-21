@@ -1,8 +1,8 @@
-package lab2.model;
+package lab3.model;
 
 public class Cylinder extends AbstractForm {
-    private final float length;
-    private final float diameter;
+    private float length;
+    private float diameter;
 
     public Cylinder(Wood wood, float length, float diameter) {
         super(wood);

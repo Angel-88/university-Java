@@ -4,6 +4,7 @@ import lab3.model.*;
 import lab3.store.ProductStore;
 import lab3.store.WoodDirectory;
 
+import javax.swing.*;
 import java.util.Scanner;
 
 public class TestByConsole {
@@ -77,7 +78,12 @@ public class TestByConsole {
         float timberHeight = scanner.nextFloat();
         System.out.println("Введіть ширину бруса");
         float timberWidth = scanner.nextFloat();
-        productStore.add(new Timber(woodDirectory.get(woodId), timberLength, timberHeight, timberWidth));
+        try {
+            productStore.add(new Timber(woodDirectory.get(woodId), timberLength, timberHeight, timberWidth));
+        } catch (Exception e) {
+            System.out.println(e.getMessage() + ", введіть коректні дані знов!");
+            createTimber();
+        }
     }
 
     private void createCylinder() {
@@ -87,12 +93,22 @@ public class TestByConsole {
         float cylinderLength = scanner.nextFloat();
         System.out.println("Введіть діаметер циліндричного бруса");
         float cylinderDiameter = scanner.nextFloat();
-        productStore.add(new Cylinder(woodDirectory.get(woodId), cylinderLength, cylinderDiameter));
+        try {
+            productStore.add(new Cylinder(woodDirectory.get(woodId), cylinderLength, cylinderDiameter));
+        } catch (Exception e) {
+            System.out.println(e.getMessage() + ", введіть коректні дані знов!");
+            createCylinder();
+        }
     }
 
     private void createWaste() {
         System.out.println("Введіть вагу мішка відходів");
         float wasteWeight = scanner.nextFloat();
-        productStore.add(new Waste(wasteWeight));
+        try {
+            productStore.add(new Waste(wasteWeight));
+        } catch (Exception e) {
+            System.out.println(e.getMessage() + ", введіть коректні дані знов!");
+            createWaste();
+        }
     }
 }

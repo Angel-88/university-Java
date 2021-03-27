@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53558f96-8fb5-4462-90ce-144d63fe182f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/Lab_3_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/src/lab3/model/AbstractForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/src/lab3/model/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/src/lab3/model/IWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/src/lab3/model/Timber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/src/lab3/model/Waste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/src/lab3/model/Wood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/src/lab3/store/AbstractStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/src/lab3/store/ProductStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/src/lab3/store/WoodDirectory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/src/lab3/tests/TestApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3_1/src/lab3/tests/TestByConsole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Labs-Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2/out/production/Lab_2/META-INF/Lab_2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2/out/production/Lab_2/lab2/model/Cylinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2/out/production/Lab_2/lab2/model/Cylinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2/out/production/Lab_2/lab2/model/Timber.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2/out/production/Lab_2/lab2/model/Timber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2/src/lab2/model/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2/src/lab2/model/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2/src/lab2/model/Timber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2/src/lab2/model/Timber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2/src/lab2/model/Wood.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2/src/lab2/model/Wood.java" afterDir="false" />
+    <list default="true" id="eec3b30d-6db6-46f1-9f52-260c218346be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/model/Cylinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/model/Cylinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/model/Timber.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/model/Timber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/tests/TestByConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/tests/TestByConsole.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1q2kI3OMLXKMytWc9K1YXVBxiJo" />
+  <component name="ProjectId" id="1q6Uo1k42KNjYUBSTQiBssNxyzZ" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,21 +28,65 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Lab_3_2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Lab_3_2" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,16 +95,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="53558f96-8fb5-4462-90ce-144d63fe182f" name="Default Changelist" comment="" />
-      <created>1616284990789</created>
+      <changelist id="eec3b30d-6db6-46f1-9f52-260c218346be" name="Default Changelist" comment="" />
+      <created>1616399706192</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1616284990789</updated>
-      <workItem from="1616284993116" duration="58000" />
-      <workItem from="1616285062871" duration="78000" />
-      <workItem from="1616316453854" duration="219000" />
-      <workItem from="1616320063310" duration="108000" />
-      <workItem from="1616320248964" duration="12000" />
+      <updated>1616399706192</updated>
+      <workItem from="1616399709079" duration="146000" />
     </task>
     <servers />
   </component>

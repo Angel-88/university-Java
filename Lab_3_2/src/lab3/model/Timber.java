@@ -1,7 +1,5 @@
 package lab3.model;
 
-import java.io.Serializable;
-
 public class Timber extends AbstractForm{
     private final float length;
     private final float height;

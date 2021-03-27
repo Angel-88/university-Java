@@ -1,11 +1,9 @@
 package lab3.tests;
 
-import lab3.model.Wood;
 import lab3.store.WoodDirectory;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.ObjectInput;
 import java.io.ObjectInputStream;
 
 public class TestRestoreObject {

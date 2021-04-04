@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eec3b30d-6db6-46f1-9f52-260c218346be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="151c1db1-5570-4835-8749-a9be34a092b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/model/Cylinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/model/Cylinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/model/Timber.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/model/Timber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/tests/TestByConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/tests/TestByConsole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_2/out/production/Lab_3_2/lab3/model/Timber.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_2/out/production/Lab_3_2/lab3/model/Timber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_2/out/production/Lab_3_2/lab3/store/ProductStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_2/out/production/Lab_3_2/lab3/store/ProductStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_2/out/production/Lab_3_2/lab3/tests/TestReadFile$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_2/out/production/Lab_3_2/lab3/tests/TestReadFile$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_2/out/production/Lab_3_2/lab3/tests/TestReadFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_2/out/production/Lab_3_2/lab3/tests/TestReadFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_2/out/production/Lab_3_2/lab3/tests/TestRestoreObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_2/out/production/Lab_3_2/lab3/tests/TestRestoreObject.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1q6Uo1k42KNjYUBSTQiBssNxyzZ" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,9 +22,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -44,63 +40,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Lab_3_2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Lab_3_2" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eec3b30d-6db6-46f1-9f52-260c218346be" name="Default Changelist" comment="" />
-      <created>1616399706192</created>
+      <changelist id="151c1db1-5570-4835-8749-a9be34a092b2" name="Default Changelist" comment="" />
+      <created>1617393775854</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1616399706192</updated>
-      <workItem from="1616399709079" duration="146000" />
+      <updated>1617393775854</updated>
+      <workItem from="1617393777178" duration="265000" />
     </task>
     <servers />
   </component>

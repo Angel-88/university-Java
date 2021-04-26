@@ -1,12 +1,11 @@
-package lab5.tests;
+package lab6.tests;
 
-import lab5.model.*;
-import lab5.store.ProductStore;
-import lab5.store.WoodDirectory;
+import lab6.model.*;
+import lab6.store.ProductStore;
+import lab6.store.WoodDirectory;
 
 import javax.swing.*;
 import java.util.Iterator;
-import java.util.function.Predicate;
 
 public class TestApp {
     WoodDirectory woodDirectory = new WoodDirectory();

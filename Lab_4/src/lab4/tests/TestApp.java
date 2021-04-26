@@ -6,6 +6,7 @@ import lab4.store.WoodDirectory;
 
 import javax.swing.*;
 import java.util.Iterator;
+import java.util.ListIterator;
 
 public class TestApp {
     WoodDirectory woodDirectory = new WoodDirectory();
@@ -78,6 +79,21 @@ public class TestApp {
             }
         }
         System.out.println("Перелік виробів після вилучення:");
+        System.out.println(productStore);
+
+        ListIterator<Object> listItr = productStore.listIterator();
+        while (listItr.hasNext()) {
+            listItr.next();
+        }
+        listItr.previous();
+        try {
+            listItr.add(new Timber(woodDirectory.get(1), 3f, 0.18f, 0.19f));
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+
+        System.out.println("Перелік виробів після додавання");
         System.out.println(productStore);
     }
 

@@ -3,6 +3,7 @@ package lab4.store;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.ListIterator;
 
 public class AbstractStore<T> implements Serializable, Iterable<Object> {
     protected final ArrayList<Object> arr = new ArrayList<>();
@@ -28,6 +29,73 @@ public class AbstractStore<T> implements Serializable, Iterable<Object> {
         return new StoreIterator();
     }
 
+    public ListIterator<Object> listIterator() {
+        return new StoreListIterator();
+    }
+
+    private class StoreListIterator extends StoreIterator implements ListIterator<Object> {
+        @Override
+        public boolean hasPrevious() {
+            return current > 0;
+        }
+
+        @Override
+        public Object previous() {
+            return arr.get(current - 1);
+        }
+
+        @Override
+        public int nextIndex() {
+            return current + 1;
+        }
+
+        @Override
+        public int previousIndex() {
+            return current - 1;
+        }
+
+        @Override
+        public void set(Object o) {
+            arr.set(current, o);
+        }
+
+        @Override
+        public void add(Object o) {
+            arr.add(current, o);
+            current++;
+        }
+    }
+
+//        @Override
+//        public boolean hasPrevious() {
+//            return current > 0;
+//        }
+//
+//        @Override
+//        public Object previous() {
+//            return arr.get(current--);
+//        }
+//
+//        @Override
+//        public int nextIndex() {
+//            return current + 1;
+//        }
+//
+//        @Override
+//        public int previousIndex() {
+//            return current - 1;
+//        }
+//
+//        @Override
+//        public void set(Object o) {
+//            arr.set(current, o);
+//        }
+//
+//        @Override
+//        public void add(Object o) {
+//            arr.add(o);
+//        }
+//    }
 
     private class StoreIterator implements Iterator<Object> {
         int current = 0;

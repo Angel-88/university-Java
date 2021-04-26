@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="151c1db1-5570-4835-8749-a9be34a092b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/tests/TestByConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_1/out/production/Lab_3_1/lab3/tests/TestByConsole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_1/src/lab3/tests/TestByConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_1/src/lab3/tests/TestByConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_2/Log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_2/Log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4/out/production/Lab_4/lab4/store/AbstractStore$StoreIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4/out/production/Lab_4/lab4/store/AbstractStore$StoreIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4/out/production/Lab_4/lab4/store/AbstractStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4/out/production/Lab_4/lab4/store/AbstractStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4/src/lab4/store/AbstractStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4/src/lab4/store/AbstractStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/out/production/Lab_5/lab5/store/AbstractStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/out/production/Lab_5/lab5/store/AbstractStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/out/production/Lab_5/lab5/tests/TestApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/out/production/Lab_5/lab5/tests/TestApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/src/lab5/store/AbstractStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/src/lab5/store/AbstractStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/src/lab5/tests/TestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/src/lab5/tests/TestApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +48,7 @@
       <workItem from="1617393777178" duration="265000" />
       <workItem from="1617704729808" duration="24000" />
       <workItem from="1617704780704" duration="55000" />
+      <workItem from="1619033900838" duration="32000" />
     </task>
     <servers />
   </component>

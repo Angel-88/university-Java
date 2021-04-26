@@ -4,7 +4,6 @@ import lab3.model.*;
 import lab3.store.ProductStore;
 import lab3.store.WoodDirectory;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 public class TestByConsole {

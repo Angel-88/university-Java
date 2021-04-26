@@ -1,7 +1,4 @@
-package lab5.store;
-
-import lab5.model.IWeight;
-import lab5.model.Waste;
+package lab6.store;
 
 import java.io.Serializable;
 import java.util.ArrayList;
